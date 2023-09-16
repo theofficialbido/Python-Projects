@@ -1,0 +1,7 @@
+ if
+ while
+ elif
+ .upper/.lower
+lists
+imports
+ functionss
